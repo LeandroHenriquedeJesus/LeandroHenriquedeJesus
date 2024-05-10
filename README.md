@@ -7,8 +7,6 @@
 🎒 - Estudo: HTML5/CSS3, JavaScript, Bootstrap.
 </div>
 
-## 
-
 ## ⚙️ Estatísticas GitHub
 
 ![Leandro-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula)
