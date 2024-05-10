@@ -40,6 +40,11 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ##
 
+### 📘 Certificações
+<div>
+  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</div>
+
 ### 🌐 Minhas Redes.
 <div>
 <a href= "mailto:leandrohjesus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
