@@ -42,7 +42,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ### 📘 Certificações
 <div>
-  <img height="30" width="40" src="ItilV4.png" alt="Itil">
+  <img height="30" width="30" src="ItilV4.png" alt="Itil">
 </div>
 
 ### 🌐 Minhas Redes.
