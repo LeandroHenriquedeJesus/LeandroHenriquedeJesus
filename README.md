@@ -22,7 +22,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ## 
 
-### ⚙️ Estatísticas GitHub
+### ⚙️ Estatísticas de Aprendizagem GitHub.
 
 ![Leandro-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact)
@@ -38,7 +38,8 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 </div>
 
 ##
-  
+
+### 🌐 Minhas Redes.
 <div>
 <a href= "mailto:leandrohjesus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://outlook.live.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft- outlook&logoColor=white"></a>
