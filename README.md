@@ -37,7 +37,7 @@
 ##
 
  
-###🧑🏽‍💻 Sobre mim:
+### 🧑🏽‍💻 Sobre mim:
   <p>
     Bacharelando em Ciências da Computação e recém-graduado em Análise e Desenvolvimento de Sistemas, estou determinado a construir uma carreira sólida na indústria de desenvolvimento web. Meu entusiasmo pela área computacional, especialmente em interfaces e experiência     do usuário, é evidente em meu compromisso contínuo de aprimorar minhas habilidades por meio de estudos autônomos em programação.<br>
     <p>
