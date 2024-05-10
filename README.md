@@ -29,7 +29,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ##
 
-### ## 👨🏽‍💻 Tecnologias  
+### 👨🏽‍💻 Tecnologias  
 
 <div><br>
 
