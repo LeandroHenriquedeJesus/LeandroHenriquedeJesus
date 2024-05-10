@@ -43,7 +43,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ### 📘 Cursos e Certificações
 
-  Descrição   | Instituição   | Ano | Tipo | Certificação 
+  Descrição   | Instituição   | Ano | Tipo | | 
 --------- | --------- | ------ | ------ | ------
 🏅 Itil Fundation Certified | Via Virtual | 2024 | Certificação | <img height="30" width="30" align="center" src="ItilV4.png" alt="Itil">
 
