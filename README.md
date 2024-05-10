@@ -30,7 +30,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 ##
 
 <div><br>
-<a href="https://github.com/LeandroHenriquedeJesus">
+<a href="https://github.com/LeandroHenriquedeJesus" style="text-decoration: none;">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
