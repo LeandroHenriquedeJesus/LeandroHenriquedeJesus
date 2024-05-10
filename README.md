@@ -1,4 +1,4 @@
-<h1>Olá eu Sou Leandro Henrique de Jesus</h1>👋🏼
+Olá eu Sou Leandro Henrique de Jesus! 👋🏼
 
 <div>
 💼 - Trabalho: Analista de Suporte II (09/2021 - Atual).<br>
