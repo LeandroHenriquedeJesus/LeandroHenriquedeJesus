@@ -42,7 +42,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ### 📘 Certificações
 <div>
-  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/itil/itil-original.svg">
 </div>
 
 ### 🌐 Minhas Redes.
