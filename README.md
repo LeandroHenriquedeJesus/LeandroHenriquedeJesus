@@ -45,6 +45,8 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
   <img height="40" width="40" src="ItilV4.png" alt="Itil">
 </div>
 
+##
+
 ### 🌐 Minhas Redes.
 <div>
 <a href= "mailto:leandrohjesus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
