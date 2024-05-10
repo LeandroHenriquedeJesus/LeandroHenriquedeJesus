@@ -13,13 +13,16 @@
 <div>
 <p>Bacharelando em Ciências da Computação e recém-graduado em Análise e Desenvolvimento de Sistemas, estou determinado a construir uma carreira sólida na indústria de desenvolvimento web. 
 Meu entusiasmo pela área computacional, especialmente em interfaces e experiência do usuário, é evidente em meu compromisso contínuo de aprimorar minhas habilidades por meio de estudos autônomos em programação.</p>
-<p>Atualmente, ocupo a posição de Analista de Suporte II na Stefanini, onde forneço assistência técnica especializada aos usuários do sistema operacional Windows.</p>
-<p>Esta experiência tem me proporcionado uma compreensão sólida das necessidades dos usuários finais e a importância de soluções eficazes e intuitivas.</p>
+<p>Atualmente, ocupo a posição de Analista de Suporte II na Stefanini, onde forneço assistência técnica especializada aos usuários do sistema operacional Windows.
+Esta experiência tem me proporcionado uma compreensão sólida das necessidades dos usuários finais e a importância de soluções eficazes e intuitivas.</p>
+Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadêmico em desafios estimulantes na área de desenvolvimento web.
 </div>
 
-Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadêmico em desafios estimulantes na área de desenvolvimento web.
 
-## ⚙️ Estatísticas GitHub
+
+## 
+
+⚙️ Estatísticas GitHub
 
 ![Leandro-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact)
