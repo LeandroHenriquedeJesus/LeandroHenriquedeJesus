@@ -11,12 +11,13 @@
 
 ⚙️ Estatísticas GitHub
 
-![Leandro-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Henrique&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Henrique&layout=compact)
+![Leandro-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact)
 
 ##
 
 <div><br>
+<a href="https://github.com/LeandroHenriquedeJesus">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
