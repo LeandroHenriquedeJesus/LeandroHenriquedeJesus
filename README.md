@@ -7,6 +7,8 @@
 🎒 - Estudo: HTML5/CSS3, JavaScript, Bootstrap.
 </div>
 
+#
+
 🧑🏽‍💻 Sobre mim:
 Bacharelando em Ciências da Computação e recém-graduado em Análise e Desenvolvimento de Sistemas, estou determinado a construir uma carreira sólida na indústria de desenvolvimento web. Meu entusiasmo pela área computacional, especialmente em interfaces e experiência do usuário, é evidente em meu compromisso contínuo de aprimorar minhas habilidades por meio de estudos autônomos em programação.
 Atualmente, ocupo a posição de Analista de Suporte II na Stefanini, onde forneço assistência técnica especializada aos usuários do sistema operacional Windows. Esta experiência tem me proporcionado uma compreensão sólida das necessidades dos usuários finais e a importância de soluções eficazes e intuitivas.
