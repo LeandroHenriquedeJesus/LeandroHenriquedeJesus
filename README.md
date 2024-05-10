@@ -2,8 +2,8 @@
 
 <div>
 💼 - Trabalho: Analista de Suporte II (09/2021 - Atual).<br>
-👨‍🎓 - Formação: 2014 - Gestão da Tecnologia da Informação / 2021 - Analise e Desenvolvimento de Sistema.</br>
-👨‍🎓 - Cursando: Ciências da Computação.</br>
+👨🏽‍🎓 - Formação: 2014 - Gestão da Tecnologia da Informação / 2021 - Analise e Desenvolvimento de Sistema.</br>
+👨🏽‍🎓 - Cursando: Ciências da Computação.</br>
 🎒 - Estudo: HTML5/CSS3, JavaScript, Bootstrap.
 </div>
 
