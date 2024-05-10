@@ -9,7 +9,7 @@
 
 ## 
 
-⚙️ Estatísticas GitHub
+## ⚙️ Estatísticas GitHub
 
 ![Leandro-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact)
