@@ -18,8 +18,6 @@ Esta experiência tem me proporcionado uma compreensão sólida das necessidades
 Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadêmico em desafios estimulantes na área de desenvolvimento web.
 </div>
 
-
-
 ## 
 
 ### ⚙️ Estatísticas de Aprendizagem GitHub.
@@ -40,10 +38,9 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 ##
 
-
 ### 📘 Cursos e Certificações
 
-  Descrição   | Instituição   | Ano | Tipo |
+Descrição   | Instituição   | Ano | Tipo |
 --------- | --------- | ------ | ------ | 
 🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação |
 🏅 UI Design para Iniciantes | Origamid | 2023 | Certificado |
