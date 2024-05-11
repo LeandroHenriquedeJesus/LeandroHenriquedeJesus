@@ -46,7 +46,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
   Descrição   | Instituição   | Ano | Tipo | | 
 --------- | --------- | ------ | ------ | ------
 🏅 Itil Fundation Certified | Via Virtual | 2024 | Certificação | <img height="30" width="30" align="center" src="ItilV4.png" alt="Itil">
-🏅 UI Design para Iniciantes | Origamid | 2023 | Certificado | <img height="30" width="30" align="center" src="UI Design" alt="UI Design">
+🏅 UI Design para Iniciantes | Origamid | 2023 | Certificado | <img height="30" width="30" align="center" src="UI Design.jpg" alt="UI Design">
 
 ##
 
