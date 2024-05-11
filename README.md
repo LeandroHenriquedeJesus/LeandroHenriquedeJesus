@@ -43,7 +43,7 @@ Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadê
 
 Descrição   | Instituição   | Ano | Tipo | |
 --------- | --------- | ------ | ------ | ------
-🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação | <img src="ItilV4.png" height="40" width="40" alt="Itil"> |
+🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação | <img src="itil.png" height="40" width="40" alt="Itil"> |
 🏅 UI Design para Iniciantes | Origamid | 2023 | Certificado | <img src="UI Design.png" height="40" width="40" alt="UI Design"> |
 🏅 HTML E CSS | Origamid | Cursando | Certificado |
 
