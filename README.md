@@ -1,8 +1,8 @@
 ### Olá eu Sou Leandro Henrique de Jesus! 👋🏽
 
 <div>
-💼 - Trabalho: Analista de Suporte II (09/2021 - Atual).<br>
 💼 - Trabalho: Orientador Educacional (06/2022 - Atual).<br>
+💼 - Trabalho: Analista de Suporte II (09/2021 - 05/2024).<br>
 👨🏽‍🎓 - Formação: 2014 - Gestão da Tecnologia da Informação / 2021 - Analise e Desenvolvimento de Sistema.</br>
 👨🏽‍🎓 - Cursando: Ciências da Computação.</br>
 🎒 - Estudo: HTML5/CSS3, JavaScript, Bootstrap.
