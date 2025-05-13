@@ -12,11 +12,8 @@
 
 ### 🧑🏽‍💻 Sobre:
 <div>
-<p>Bacharelando em Ciências da Computação e recém-graduado em Análise e Desenvolvimento de Sistemas, estou determinado a construir uma carreira sólida na indústria de desenvolvimento web. 
-Meu entusiasmo pela área computacional, especialmente em interfaces e experiência do usuário, é evidente em meu compromisso contínuo de aprimorar minhas habilidades por meio de estudos autônomos em programação.</p>
-<p>Atualmente, ocupo a posição de Analista de Suporte II na Stefanini, onde forneço assistência técnica especializada aos usuários do sistema operacional Windows.
-Esta experiência tem me proporcionado uma compreensão sólida das necessidades dos usuários finais e a importância de soluções eficazes e intuitivas.</p>
-Estou ansioso para aplicar minha paixão pela tecnologia e meu background acadêmico em desafios estimulantes na área de desenvolvimento web.
+<p>Profissional graduado em Análise e Desenvolvimento de Sistemas e bacharelando em Ciências da Computação, com experiência em suporte técnico ao cliente e atuação em ambientes educacionais. 
+Possui certificações ITIL v4, Microsoft (MS-900 e AZ-900), com habilidades em resolução de problemas, atendimento ao cliente e suporte técnico.
 </div>
 
 ## 
