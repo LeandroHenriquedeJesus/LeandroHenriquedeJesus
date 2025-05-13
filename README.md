@@ -42,8 +42,8 @@ Descrição   | Instituição   | Ano | Tipo | |
 --------- | --------- | ------ | ------ | ------
 🏅 UI Design para Iniciantes | Origamid | 2023 | Certificado | <img src="UI Design.png" height="20" width="40" alt="UI Design"> |
 🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação | <img src="itil.png" height="40" width="30" alt="Itil"> |
-🏅 AZ-900 | Microsoft | 2024 | Certificação | <img src="AZ-900 certificação.png" height="10" width="10" alt="AZ900"> |
-🏅 MS-900 | Microsoft | 2024 | Certificação | <img src="MS-900 certificação.png" height="10" width="10" alt="MS900"> |
+🏅 AZ-900 | Microsoft | 2024 | Certificação | <img src="AZ-900 certificação.png" height="40" width="40" alt="AZ900"> |
+🏅 MS-900 | Microsoft | 2024 | Certificação | <img src="MS-900 certificação.png" height="30" width="20" alt="MS900"> |
 🏅 HTML E CSS | Origamid | Cursando | Certificado |
 
 ##
