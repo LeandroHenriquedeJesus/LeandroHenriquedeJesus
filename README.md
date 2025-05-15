@@ -34,8 +34,8 @@ Possui certificações ITIL v4, Microsoft (MS-900 e AZ-900), com habilidades em 
 Descrição   | Instituição   | Ano | Tipo | |
 --------- | --------- | ------ | ------ | ------
 🏅 UI Design para Iniciantes | Origamid | 2023 | Certificado | <img src="UI Design.png" height="30" width="40" alt="UI Design"> |
-🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação | <img src="itil.png" height="30" width="30" alt="Itil"> |
-🏅 AZ-900 | Microsoft | 2024 | Certificação | <img src="AZ-900 certificação.png" height="50" width="50" alt="AZ900"> |
+🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação | <img src="itil.png" height="40" width="40" alt="Itil"> |
+🏅 AZ-900 | Microsoft | 2024 | Certificação | <img src="AZ-900 certificação.png" height="30" width="40" alt="AZ900"> |
 🏅 MS-900 | Microsoft | 2024 | Certificação | <img src="MS-900 certificação.png" height="30" width="40" alt="MS900"> |
 🏅 CSS flexbox | Origamid | 2025 | Certificado | <img src="flexbox.png" height="30" width="40" alt="CSS flexbox"> |
 🏅 HTML E CSS | Origamid | Cursando | Certificado |
