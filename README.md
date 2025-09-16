@@ -12,8 +12,7 @@
 
 ### 🧑🏽‍💻 Sobre:
 <div>
-<p>Profissional graduado em Análise e Desenvolvimento de Sistemas e bacharelando em Ciências da Computação, com experiência em suporte técnico ao cliente e atuação em ambientes educacionais. 
-Possui certificações ITIL v4, Microsoft (MS-900 e AZ-900), com habilidades em resolução de problemas, atendimento ao cliente e suporte técnico.
+<p>Graduado em Análise e Desenvolvimento de Sistemas e bacharelando em Ciências da Computação, com experiência em suporte técnico e certificações Microsoft (MS-900, AZ-900, AI-900, SC-900) e ITIL v4. Atuei em ambientes corporativos e educacionais, sempre com foco em resolver problemas de forma ágil e eficiente. Tenho interesse em desenvolvimento web, cloud computing e inteligência artificial aplicada, áreas nas quais busco construir minha carreira, aplicando tanto minha experiência prática quanto meu aprendizado contínuo</p>
 </div>
 
 ## 
