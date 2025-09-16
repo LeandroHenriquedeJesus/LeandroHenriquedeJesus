@@ -38,7 +38,7 @@ Descrição   | Instituição   | Ano | Tipo | |
 🏅 MS-900 | Microsoft | 2024 | Certificação | <img src="MS-900 certificação.png" height="30" width="40" alt="MS900"> |
 🏅 IA-900 | Microsoft | 2025 | Certificação | <img src="IA-900 certificação.png" height="30" width="40" alt="IA900"> |
 🏅 SC-900 | Microsoft | 2025 | Certificação | <img src="SC-900 certificação.png" height="30" width="40" alt="SC900"> |
-🏅 Applied Skills| Microsoft | 2025 | Certificação | <img src="Applied Skills.png" height="30" width="40" alt="Applied Skills"> |
+🏅 Applied Skills| Microsoft | 2025 | Credencial | <img src="Applied Skills.png" height="30" width="40" alt="Applied Skills"> |
 🏅 CSS flexbox | Origamid | 2025 | Certificado | <img src="flexbox.png" height="30" width="40" alt="CSS flexbox"> |
 🏅 HTML E CSS | Origamid | Cursando | Certificado |
 
