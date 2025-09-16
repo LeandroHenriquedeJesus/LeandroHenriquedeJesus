@@ -37,6 +37,8 @@ Descrição   | Instituição   | Ano | Tipo | |
 🏅 ITIL V4 Fundation Certified | Via Virtual | 2024 | Certificação | <img src="itil.png" height="40" width="30" alt="Itil"> |
 🏅 AZ-900 | Microsoft | 2024 | Certificação | <img src="AZ-900 certificação.png" height="30" width="40" alt="AZ900"> |
 🏅 MS-900 | Microsoft | 2024 | Certificação | <img src="MS-900 certificação.png" height="30" width="40" alt="MS900"> |
+🏅 IA-900 | Microsoft | 2025 | Certificação | <img src="IA-900 certificação.png" height="30" width="40" alt="IA900"> |
+🏅 SC-900 | Microsoft | 2025 | Certificação | <img src="SC-900 certificação.png" height="30" width="40" alt="SC900"> |
 🏅 CSS flexbox | Origamid | 2025 | Certificado | <img src="flexbox.png" height="30" width="40" alt="CSS flexbox"> |
 🏅 HTML E CSS | Origamid | Cursando | Certificado |
 
